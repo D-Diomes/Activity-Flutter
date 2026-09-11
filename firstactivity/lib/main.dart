@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
                   SizedBox(height: 200),
                   Text('Ang Pogi ni Rodney!', style: TextStyle(fontSize: 16, color: Colors.grey)),
                 ],
-              ), // Row
+              ), // Column
             ],
           ), // Column
         ), //Center
